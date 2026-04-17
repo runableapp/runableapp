@@ -1,8 +1,6 @@
 # Runable.App
 
-AI-powered software development focused on building simple, local, and self-contained applications.
-
-Software should be a single executable you can download and run — no installers, no prerequisites, no leftover traces when you remove it.
+Local-first, privacy by default, and built to prioritize the user experience.
 
 ## Links
 
